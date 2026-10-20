@@ -54,3 +54,6 @@ interface ultra-simplificada para uso em balcão.
 - forma_pagamento
 - valor_pago
 - **id_os** (FK)
+
+
+ ![Diagrama DER](./database/image.png)
